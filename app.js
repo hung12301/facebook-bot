@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({
 
 // init simsimi
 var simsimi = new Simsimi({
-	key: '0da76951-3f0d-49be-9be3-e014f658644b'
+	key: '27239267-c98b-41c2-b7de-147c3646fd59'
 });
  
 // index express
