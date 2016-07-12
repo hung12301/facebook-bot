@@ -3,7 +3,7 @@ var login = require("facebook-chat-api");
 const Simsimi = require('simsimi');
 
 const simsimi = new Simsimi({
-    key: '27239267-c98b-41c2-b7de-147c3646fd59'
+    key: 'de27e23a-d01c-4c14-9de2-4f784f2023aa'
 });
 
 // Create simple echo bot
